@@ -1,0 +1,3 @@
+C:/Users/kozac/Desktop/unik/acd/laba 2/lab2.2/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/kozac/Desktop/unik/acd/laba 2/lab2.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kozac/Desktop/unik/acd/laba 2/lab2.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

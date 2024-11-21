@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726509069 source:c:\users\kozac\desktop\унік\асд\лаба1\lab1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
