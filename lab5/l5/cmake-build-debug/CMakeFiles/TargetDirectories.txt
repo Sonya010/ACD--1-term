@@ -1,3 +1,0 @@
-C:/Users/kozac/Desktop/unik/acd/Lab5/l5/cmake-build-debug/CMakeFiles/l5.dir
-C:/Users/kozac/Desktop/unik/acd/Lab5/l5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kozac/Desktop/unik/acd/Lab5/l5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
